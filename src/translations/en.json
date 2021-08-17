@@ -1,0 +1,12 @@
+{
+    "title": "Q&A Widget",
+    "sub_title": "Prototype widget",
+    "description": "Prototype to allow users to view answered questions",
+    "errors.retrieve_user": "An error occured while retrieving user",
+    "errors.dismiss": "Dismiss",
+    "settings.image_id": "Image identifier",
+    "settings.grey": "Display unanswered questions",
+    "settings.blur": "Number of results to display",
+    "settings.blur_value_title": "Results value",
+    "settings.blur_value_desc": "Choose value"
+}
