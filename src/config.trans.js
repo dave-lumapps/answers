@@ -15,8 +15,8 @@ var useGlobalSettings = true;
  */
 
 exports.useGlobalSettings = useGlobalSettings;
-var partnerId = '111';
-var extensionId = '222';
+var partnerId = '170099712532137311301576503899034709635';
+var extensionId = '270116875223533602430165880013632809308';
 var description = {
   en: '"Prototype to allow users to view answered questions',
   fr: 'A description for Test 1'

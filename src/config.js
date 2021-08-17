@@ -8,8 +8,8 @@ export const useGlobalSettings = true;
 /**
  * The ids of your partner and extension
  */
-const partnerId = '111';
-const extensionId = '222';
+const partnerId = '170099712532137311301576503899034709635';
+const extensionId = '270116875223533602430165880013632809308';
 
 const description = {
     en: '"Prototype to allow users to view answered questions',
